@@ -5,6 +5,9 @@ import { AppRoutingModule } from './app-routing.module';
 
 import { AppComponent } from './app.component';
 
+import * as $ from 'jquery';
+import * as $p from 'popper.js';
+import * as $b from 'bootstrap';
 
 @NgModule({
   declarations: [
